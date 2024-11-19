@@ -1,4 +1,4 @@
-<img align="center" width=100% src="https://github.com/RicardoMouraa/RicardoMouraa/assets/106688139/a23c252f-6a3d-42d8-96a0-0d6a3839fb96"/>
+<img align="center" width=100% src=""/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ developing innovative web solutions. <br><br> As a freelance web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on <strong>HTML, CSS, JavaScript, and PHP</strong>, I am <strong>passionate about crafting user-centric experiences</strong> and leveraging technology for high-quality solutions.</p>&nbsp;
@@ -49,10 +49,10 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/riicardomoura" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:ricardomoura.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ricardomouradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.rmdeveloper.com.br" target="_blank"><img src="https://img.shields.io/badge/-My_Site-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white"  target="_blank"></a> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-My_Site-0078D6?style=for-the-badge&logo=internet-explorer&logoColor=white"  target="_blank"></a> 
 </div>
 &nbsp;
 &nbsp;
