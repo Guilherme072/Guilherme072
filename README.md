@@ -1,5 +1,5 @@
-<img align="center" width=100% src=""/>
-&nbsp;&nbsp;&nbsp;
+<!-- <img align="center" width=100% src=""/>
+&nbsp;&nbsp;&nbsp;-->
 
 <p align="center">I ❤️ developing innovative web solutions. <br><br> As a freelance web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on <strong>HTML, CSS, JavaScript, and PHP</strong>, I am <strong>passionate about crafting user-centric experiences</strong> and leveraging technology for high-quality solutions.</p>&nbsp;
 
